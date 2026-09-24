@@ -62,13 +62,13 @@ EduSupport provides a centralized system for creating and managing these support
 
 ## Technology Stack
 
-- **Python** – Application development
-- **Streamlit** – Web interface
-- **SQLite** – Database
+- Python
+- Streamlit
+- SQLite
 
 ## System Architecture
 
-```text
+text
 Student / Staff
        |
        v
@@ -79,3 +79,10 @@ Python Application Logic
        |
        v
 SQLite Database
+
+## Author
+
+Manasa Veena
+
+B.Tech – Data Science
+2026
